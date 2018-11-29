@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/birthday-wisher/static/js/runtime~main.e4381cf1.js"
   },
   {
-    "revision": "22507dd3969547d630a8",
-    "url": "/birthday-wisher/static/js/main.22507dd3.chunk.js"
+    "revision": "59edffdb6f60b92956c8",
+    "url": "/birthday-wisher/static/js/main.59edffdb.chunk.js"
   },
   {
     "revision": "94ddb462aee175e6a2b3",
     "url": "/birthday-wisher/static/js/1.94ddb462.chunk.js"
   },
   {
-    "revision": "22507dd3969547d630a8",
+    "revision": "59edffdb6f60b92956c8",
     "url": "/birthday-wisher/static/css/main.8f44bcc5.chunk.css"
   },
   {
-    "revision": "c03aaf0f2d0f32a997c66cdbaa1c55b5",
+    "revision": "d1cbb1fd9312e494bbdedeb826fbcfbb",
     "url": "/birthday-wisher/index.html"
   }
 ];
