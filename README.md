@@ -1,6 +1,8 @@
 # Birthday Message
 
-A simple placeholder website for wishing happy birthday to people you know. Simply replace your name and the other person's name in `src/data/BirthdayData.js` to use it. Enjoy!
+A simple website for wishing a Happy Birthday to people you know. Simply replace your name and the other person's name in `src/data/BirthdayData.js` to use it.
+
+Also, make sure you change the `homepage` property in `package.json` to wherever you want to deploy your website. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -30,6 +32,10 @@ The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run deploy`
+
+Builds the app for production and deploys it to GitHub pages.
 
 ### `npm run eject`
 

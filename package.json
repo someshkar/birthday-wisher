@@ -2,6 +2,7 @@
   "name": "birthday-message",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://someshkar.github.io/birthday-message",
   "dependencies": {
     "prop-types": "^15.6.2",
     "react": "^16.6.3",
@@ -15,6 +16,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "deploy": "react-scripts build && gh-pages --dist build --branch gh-pages",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -25,5 +27,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
