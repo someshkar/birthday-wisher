@@ -1,3 +1,7 @@
+# Birthday Message
+
+A simple placeholder website for wishing happy birthday to people you know. Simply replace your name and the other person's name in `src/data/BirthdayData.js` to use it. Enjoy!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
