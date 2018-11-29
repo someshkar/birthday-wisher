@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/birthday-message/precache-manifest.def77b5ac302ea50cbcdc82f7ea3aa4a.js"
+  "/birthday-wisher/precache-manifest.a6f70ebe374370dab0849a0ed07322b0.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/birthday-message/index.html", {
+workbox.routing.registerNavigationRoute("/birthday-wisher/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

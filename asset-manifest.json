@@ -1,13 +1,13 @@
 {
-  "main.css": "/birthday-message/static/css/main.8f44bcc5.chunk.css",
-  "main.js": "/birthday-message/static/js/main.eddc9743.chunk.js",
-  "main.js.map": "/birthday-message/static/js/main.eddc9743.chunk.js.map",
-  "static/js/1.0b55ee0a.chunk.js": "/birthday-message/static/js/1.0b55ee0a.chunk.js",
-  "static/js/1.0b55ee0a.chunk.js.map": "/birthday-message/static/js/1.0b55ee0a.chunk.js.map",
-  "runtime~main.js": "/birthday-message/static/js/runtime~main.4312b3a5.js",
-  "runtime~main.js.map": "/birthday-message/static/js/runtime~main.4312b3a5.js.map",
-  "static/css/main.8f44bcc5.chunk.css.map": "/birthday-message/static/css/main.8f44bcc5.chunk.css.map",
-  "index.html": "/birthday-message/index.html",
-  "precache-manifest.def77b5ac302ea50cbcdc82f7ea3aa4a.js": "/birthday-message/precache-manifest.def77b5ac302ea50cbcdc82f7ea3aa4a.js",
-  "service-worker.js": "/birthday-message/service-worker.js"
+  "main.css": "/birthday-wisher/static/css/main.8f44bcc5.chunk.css",
+  "main.js": "/birthday-wisher/static/js/main.22507dd3.chunk.js",
+  "main.js.map": "/birthday-wisher/static/js/main.22507dd3.chunk.js.map",
+  "static/js/1.94ddb462.chunk.js": "/birthday-wisher/static/js/1.94ddb462.chunk.js",
+  "static/js/1.94ddb462.chunk.js.map": "/birthday-wisher/static/js/1.94ddb462.chunk.js.map",
+  "runtime~main.js": "/birthday-wisher/static/js/runtime~main.e4381cf1.js",
+  "runtime~main.js.map": "/birthday-wisher/static/js/runtime~main.e4381cf1.js.map",
+  "static/css/main.8f44bcc5.chunk.css.map": "/birthday-wisher/static/css/main.8f44bcc5.chunk.css.map",
+  "index.html": "/birthday-wisher/index.html",
+  "precache-manifest.a6f70ebe374370dab0849a0ed07322b0.js": "/birthday-wisher/precache-manifest.a6f70ebe374370dab0849a0ed07322b0.js",
+  "service-worker.js": "/birthday-wisher/service-worker.js"
 }
