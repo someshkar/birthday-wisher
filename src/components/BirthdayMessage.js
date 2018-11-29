@@ -38,6 +38,10 @@ const Wisher = styled.div`
 `
 
 class BirthdayMessage extends React.Component {
+  componentDidMount() {
+    document.querySelector('title').innerText = `Happy Birthday, ${this.props.birthdayData.wishee}!`
+  }
+  
   render() {
     return (
       <Container>
