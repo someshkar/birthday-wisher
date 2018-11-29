@@ -2,7 +2,7 @@
   "name": "birthday-message",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://someshkar.github.io/birthday-message",
+  "homepage": "https://someshkar.github.io/birthday-wisher",
   "dependencies": {
     "prop-types": "^15.6.2",
     "react": "^16.6.3",
