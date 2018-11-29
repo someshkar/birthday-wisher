@@ -7,7 +7,6 @@ const Message = styled.div`
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 4rem;
-  color: rgb(232, 234, 246);
   @media screen and (max-width: 900px) {
     white-space: default;
     font-size: 2rem;
@@ -29,7 +28,6 @@ const Wisher = styled.div`
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 2rem;
-  color: rgb(232, 234, 246);
   margin-top: 1rem;
   @media screen and (max-width: 900px) {
     font-size: 1.5rem;
@@ -38,17 +36,13 @@ const Wisher = styled.div`
 `
 
 class BirthdayMessage extends React.Component {
-  componentDidMount() {
-    document.querySelector('title').innerText = `Happy Birthday, ${this.props.birthdayData.wishee}!`
-  }
-  
   render() {
     return (
       <Container>
-        <Message>
+        <Message style={{ color: this.props.birthdayData.textColor }}>
           Happy Birthday, {this.props.birthdayData.wishee}!
         </Message>
-        <Wisher>
+        <Wisher style={{ color: this.props.birthdayData.textColor }}>
           -&nbsp;{this.props.birthdayData.wisher}
         </Wisher>
       </Container>
